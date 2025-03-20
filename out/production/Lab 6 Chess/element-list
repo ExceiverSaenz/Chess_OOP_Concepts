@@ -1,0 +1,15 @@
+ChessGame.Chess
+ChessGame.ChessBoard
+ChessGame.Figure
+ChessGame.Figure.ChessPieces.Bishop
+ChessGame.Figure.ChessPieces.King
+ChessGame.Figure.ChessPieces.Knight
+ChessGame.Figure.ChessPieces.Pawn
+ChessGame.Figure.ChessPieces.Queen
+ChessGame.Figure.ChessPieces.Rook
+Enumerations.Color
+Enumerations.Column
+Enumerations.PieceType
+Inter.IntBishop
+Inter.IntChessBoard
+Inter.IntFigure
